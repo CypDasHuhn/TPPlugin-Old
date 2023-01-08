@@ -1,0 +1,12 @@
+name: TpLcRemastered
+version: 1.0
+main: de.CypDasHuhn.TpLc.main.Main
+api-version: 1.19
+
+commands:
+  ts:
+    description: ts
+  t:
+    description: t
+  td:
+    description: td
